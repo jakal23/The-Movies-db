@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">MovieDb</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="popular_movies_fragment_label">Popular movies Fragment</string>
+    <string name="movie_detail_fragment_label">Movie detail Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="default_error_message">Something went wrong.</string>
+    <string name="movie_info">Movie Info</string>
+    <string name="release_date">Release Date:</string>
+    <string name="rating">Rating:</string>
+    <string name="runtime">Runtime:</string>
+    <string name="budget">Budget:</string>
+    <string name="revenue">Revenue:</string>
+    <string name="overview">Overview</string>
+
+    <string name="minutes">%1$d minutes</string>
+
+</resources>
